@@ -12,7 +12,7 @@
 	
 }
 .light1{
-	background-color:green;
+	background-color:red;
 	height:100px;
 	width:100px;
 	border-radius:50%;
@@ -26,7 +26,7 @@
 	margin:5px;
 }
 .light3{
-	background-color:red;
+	background-color:green;
 	height:100px;
 	width:100px;
 	border-radius:50%;
