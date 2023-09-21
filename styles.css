@@ -1,4 +1,4 @@
-.box{
+.container{
 	height:200px;
 	width:500px;
 	background-color:lightgray;
@@ -11,22 +11,22 @@
 	align-items:center;
 	
 }
-.light1{
-	background-color:red;
-	height:100px;
-	width:100px;
-	border-radius:50%;
-	margin:5px;
-}
-.light2{
+.red{
 	background-color:green;
 	height:100px;
 	width:100px;
 	border-radius:50%;
 	margin:5px;
 }
-.light3{
+.green{
 	background-color:yellow;
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	margin:5px;
+}
+.yellow{
+	background-color:red;
 	height:100px;
 	width:100px;
 	border-radius:50%;
