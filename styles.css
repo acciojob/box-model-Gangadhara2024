@@ -12,14 +12,14 @@
 	
 }
 .red{
-	background-color:green;
+	background-color:rgb(0, 128, 0);
 	height:100px;
 	width:100px;
 	border-radius:50%;
 	margin:5px;
 }
 .green{
-	background-color:yellow;
+	background-color:rgb(255, 255, 0);
 	height:100px;
 	width:100px;
 	border-radius:50%;
